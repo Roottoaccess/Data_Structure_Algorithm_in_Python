@@ -1,0 +1,4 @@
+So from today we will start learning with Python on the concept of Data Structure and algorithm.
+Its really an important topic to discuss 
+If anyone needs a job on big tech it farms he/she should have the knowledge of DSA
+and I am going to start to learn this from now
